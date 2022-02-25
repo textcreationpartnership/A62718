@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the generall clothiers of England of the old and new drapery</title>
+            <author>R. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62718</idno>
+            <idno type="STC">Wing T1395A</idno>
+            <idno type="STC">ESTC R220120</idno>
+            <idno type="EEBO-CITATION">99831548</idno>
+            <idno type="PROQUEST">99831548</idno>
+            <idno type="VID">36011</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36011)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2046:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the generall clothiers of England of the old and new drapery</title>
+                  <author>R. S.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: R.S.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bedle, Nathaniel. --  Remonstrance and vindication --  Controversial literature --  Early works to 1800.</term>
+               <term>Clothing and trade --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:36011:1"/>
+            <pb facs="tcp:36011:1" rendition="simple:additions"/>
+            <head>To the Generall Clothiers of <hi>England</hi> of the Old and New Drapery.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <hi>VVHereas Mr.</hi> Bedle <hi>hath ſet out a book in print, entituled</hi> His Remonſtrance and Vindication, <hi>and ſent it to the</hi> General Clothiers of England; <hi>which is regard it is of ſuch dangerous conſequence, that may beget an ill opinion of thoſe men that have beene Agents for the Clothiers, and have pro<g ref="char:EOLhyphen"/>ſecuted their Petition with their perſons and purſes, as well as</hi> Nat: Bedle, <hi>to the utmoſt of their power: it hath cauſed them to ſet out this Remonſtrance, to certifie
+<pb facs="tcp:36011:2" rendition="simple:additions"/> the truth of the matter, which they ſhall be ready to prove upon oath, as well as</hi> Mr. Bedle <hi>hath done,</hi> Concerning his Remonſtrance and Vindication.</p>
+            <p>
+               <hi>They doe not deſire that Mr.</hi> Bedle <hi>ſhould be undervalued and diſ-eſteemed of the Clothiers, for his worth, care, charge, and paines, in the proſecution of ſo great a buſineſſe, that doth concerne the generall good of the Kingdome; neither do they queſtion his Eſtate, Progenitors, nor Gentility, it being a matter of no va<g ref="char:EOLhyphen"/>lue to be enquired after: But becauſe he hath declar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed himſelf to be the only man that hath done the whole worke, and not only ſlighted, but diſgraced thoſe that have ſupported him in the proſecution of it, with their advice and money; they doe here declare the truth, as followeth,</hi>
+            </p>
+            <q>
+               <pb facs="tcp:36011:2" rendition="simple:additions"/>
+               <p> THis buſineſſe hath been followed for the Clo<g ref="char:EOLhyphen"/>thiers by able, honeſt, and ſufficient men, long before Mr. <hi>Bedle</hi> was acquainted with it, who did as much look to the publike good in it as he hath or will do: all the grievances were preferred by way of Petition &amp; Bill to the honourable Houſe of Com<g ref="char:EOLhyphen"/>mons at the beginning of this Parliament; and it is to be believed, it had beene finiſhed before N. B. did enter upon it, had it not bin for the miſerable diſtra<g ref="char:EOLhyphen"/>ctions of the times: Concerning Mr. <hi>Bedle,</hi> he entred upon this buſineſſe a little above two yeares ſince: and whereas he doth write, he was drawn into it by the Company, eſpecially by W. T. Surely, that is ve<g ref="char:EOLhyphen"/>ry unlikely, for he being acquainted with the buſines by a friend of his R. B. who after he had informed him was very earneſt and deſirous from time to time that he might joyne with the Agents in the proſecu<g ref="char:EOLhyphen"/>tion of it for the Clothiers, and for the money that he disburſed, there was a great deale of money ex<g ref="char:EOLhyphen"/>pended before he was acquainted with the buſineſſe, and that which hee paid was not halfe ſo much as di<g ref="char:EOLhyphen"/>vers of the Agents had disburſt long before.</p>
+               <p>And whereas he writes, that he had bin employed by the Parliament: He was a Committee man, and a Sequeſtrator for <hi>Norfolke;</hi> and as he did acknowledge himſelfe, the place was very beneficiall unto him. But a litle before he did enter upon this employment he was diſmiſſed of that place: whether it were for his pride, or his unfaithfulneſſe, is beſt known to him<g ref="char:EOLhyphen"/>ſelfe: And to the Parliament, who put him out of that employment, and put another in his roome: Surely, this is certain; his proud and lofty carriage
+<pb facs="tcp:36011:3"/> hath made him diſeſteemed, and not approved of; not only of the Agents, but of divers eminent Clothiers of the Kingdome: for hee being firſt choſen Agent by the Company, before ever he was acquainted with the Clothiers; and albeit he was from time to time furniſhed with money from them; not onely for his weekly allowance, which was <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4. s. a week, beſides his extraordinary expences: but alſo ſuch ſum and ſums of money, as he did ſtill demand for the charges, in the proſecution of the ſaid buſineſſe: yet notwith<g ref="char:EOLhyphen"/>ſtanding he had ſuch a proud and lofty mind, that he would ſeldome, or never meet the Agents, to make known unto them the proceedings of the buſineſſe; &amp; he was grown to that height of pride of late, that he did diſdaine that any man ſhould be ſeene in the buſineſſe but himſelfe, unleſſe they were thoſe whom he did pleaſe, that ſo he might have all the glory pro<g ref="char:EOLhyphen"/>fit, and credit to himſelf: but to leave the generals, and come to particulars.</p>
+            </q>
+            <p>In Auguſt 1645. R. S. having one or two with him, went to Colcheſter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in Eſſex, to gather the hands of the Clothiers to the Petition; who having procu<g ref="char:EOLhyphen"/>red a meeting of the chiefeſt of them, and the petition being drawn up, with their advice and approbation: the ſaid R. S. gathered above twelve hundred hands in that Town: This was done before Mr. Bedle went into the Country: therefore he hath not done all the worke.</p>
+            <p>Then Mr. <hi>Rozer,</hi> and others of the Company ſent Mr. Bedle to Colcheſter, to aſſiſt R. S. for the gathe<g ref="char:EOLhyphen"/>ring of hands in Eſſex &amp; Suffolk, Mr. Rozer giving
+<pb facs="tcp:36011:3" rendition="simple:additions"/> 
+               <hi>him Bills of Exchange to receive money for their char<g ref="char:EOLhyphen"/>ges: he bringing in his account for that journey</hi> 45. l. <hi>This was the firſt going on of the work after Mr. Bedle was entred upon it, and then Mr. Rozer was the onely man that did ſupport him. Albeit he hath ſo much ſlighted him ſince; and not only then, but from time to time after, both with money, advice, and his countenance, for which hee was not well thought of by many of the Agents.</hi>
+            </p>
+            <p>
+               <hi>When he was in Eſsex and Suffolk with R. S. he had his inſtructions from him, who ſpent a great deal of time with him both by day and by night, to inſtruct him in the buſi<g ref="char:EOLhyphen"/>neſſe: and albeit he was in the Country to aſſiſt R. S. in get<g ref="char:EOLhyphen"/>ting of hands: yet R. S. by the help of another got the hands of most places in thoſe Counties without him. Sure<g ref="char:EOLhyphen"/>ly Mr. Bedle hath not done all the work.</hi>
+            </p>
+            <p>
+               <hi>R. S. and R. B. gathered the kands to the Petition in most of the Counties of England.</hi>
+            </p>
+            <p>
+               <hi>W. T. E. R. R. B. With the helpe of others got more friends to promote it in the Houſe, then he did, and hath ſtill attended from time to time when the Committee ſate to proſecute the buſineſſe.</hi>
+            </p>
+            <p>
+               <hi>But what hath Mr. Bedle done? In the firſt place, he ſpent above ten pound, and five weekes time to mend the Petition: and when he had done all that he could doe, he made it worſe then it was before: He doth make the world believe, he hath done great matters for the Clothiers: pray God it doth not prove that he hath done more harme then good to the buſineſse: Surely he hath ſpent the moſt</hi> part of the time theſe two yeares in writtings, and printing frivolous Bookes, and letters that have done moee harme then good, eſpecially the laſt book that is able to make a mans eares itch to hear it, and benum his ſenſes to read ir: thoſe that have ſupport<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:36011:4" rendition="simple:additions"/> him this time with advice and money have found him to be a proud and ſelf-conceited man: he thinks unleſſe he doth it, it cannot be done: there is not a wiſe man amongſt the Agents, but only he: but the truth is, he hath proved himſelf to be the veri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt fool of all, in procuring thoſe to be his enemies that were his beſt friends in the ſupporting of him in this bu<g ref="char:EOLhyphen"/>ſineſſe: He writes that he hath beate his braines, and tyred out his ſpirits in contriving the buſineſſe, and anſwering objections of the Staplers: It were better that his own workes did praiſe him in the gate. How came he by this knowledge? Was he bred up a Clo<g ref="char:EOLhyphen"/>thier? Could he ſpeak experimentally; if not then, he muſt have it from ſome body. You have heard be<g ref="char:EOLhyphen"/>fore in part how he g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ir; the truth is, he hath been a Solicitor of the Law, and they are men that will have a hand in any buſineſſe to get money. No ſoo<g ref="char:EOLhyphen"/>ner was he entred upon the buſineſſe, but he ſought for weekly allowance, and he had it: Others have ſpent their time, paines, and money in the buſineſſe, and hath had nothing yet: He hath written a Remon<g ref="char:EOLhyphen"/>ſtrance and Vindication, and he hath quoted divers places of Scripture; but as the Divell did to Chriſt: He hath writ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en ſome truths; but that truth that would not advance his applauſe and honour amongſt you, that he hath left out: Therefore they have ad<g ref="char:EOLhyphen"/>ded ſomething more unto it; and ſo they leave him and all his bookes together.</p>
+            <p>But concerning the great buſineſſe that is now in agitation that doth concern the generall good of the Clothiers of this Kingdome: There be divers honeſt able and ſufficient men that have undertook the pro<g ref="char:EOLhyphen"/>ſecution
+<pb facs="tcp:36011:4" rendition="simple:additions"/> of this buſineſſe for you, and will goe on without Mr. Bedle, and they are willing and ready to further the buſineſſe in the proſecution of it to the utmoſt of their power: They do not think it beſt that one man ſhould proſecute it alone, as Mr. Bedle ſaith he hath done: Albeit others have done more for the good of the buſineſſe, then he hath done: onely this they do preſent to your conſideration, that they are willing and ready with you: and by the helpe of God will be ready, looking at the publique good, &amp; not ayming at their own ends: as alſo with your ad<g ref="char:EOLhyphen"/>vice to go on with the worke, deſiring God that it may be effected for the Publique good, which they ſhall nothing elſe deſire; and ſo I reſt,</p>
+            <closer>
+               <signed>Your loving friend and ſervant, A Clothier, R. S.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
